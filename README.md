@@ -111,8 +111,8 @@ If you have any questions or want additional features (auth, per-user carts, tes
 ---
 
 ### Video demo link
-
-`https://drive.google.com/file/d/1JCI1gkotpuSztNxtj_RL5dY3jpEDQ2xi/view?usp=drive_link`
+[Click here to watch the demo video]
+(https://drive.google.com/file/d/1JCI1gkotpuSztNxtj_RL5dY3jpEDQ2xi/view?usp=drive_link)
 
 # Vibe Commerce — Mock E‑Com Cart
 
