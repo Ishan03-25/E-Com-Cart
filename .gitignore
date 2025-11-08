@@ -1,0 +1,8 @@
+node_modules/
+server_ts/node_modules/
+client/node_modules/
+*.sqlite
+dist/
+server_ts/.env
+server_ts/.env.example
+/.DS_Store

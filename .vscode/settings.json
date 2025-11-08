@@ -1,0 +1,8 @@
+{
+  // Allow Tailwind directives and @apply without editor lint warnings
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "less.lint.unknownAtRules": "ignore",
+  // Keep CSS validation on, but ignore unknown at-rules which Tailwind uses
+  "css.validate": true
+}
