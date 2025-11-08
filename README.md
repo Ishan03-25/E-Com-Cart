@@ -82,26 +82,6 @@ The `server_ts` package includes a `npm run seed` script that inserts example pr
 - Checkout form (name + email) that produces a receipt view
 - Responsive layout using Tailwind utilities
 
-## How to demo (video guidance)
-
-Create a concise 1–2 minute demo (Loom / YouTube unlisted). Cover the following actions in order:
-
-1. Short intro (5–10s): say your name and that this is a Mock E‑Com Cart implementation for the Vibe Commerce assignment.
-2. Show Products page (10–20s): add 2 different items to the cart, change quantity for one of them.
-3. Show Cart page (15–20s): demonstrate remove/update and point out the total calculation.
-4. Checkout (20–30s): fill the checkout form (name/email) and submit — show the receipt generated and saved.
-5. (Optional) Quickly show the backend endpoint (Postman / curl) or the seeded product list via `GET /api/products` (10–15s).
-
-Suggested small script:
-
-"Hi — I'm <Your Name>. This is a 90 second demo of the Vibe Commerce mock cart. I'll add two products, update quantity, then checkout and view the receipt."
-
-Video tips:
-
-- Record at 720p or 1080p, keep the viewport focused on the app.
-- Keep audio short and clear; no need for narration if you prefer captions.
-- Upload as unlisted on YouTube or share via Loom. Add the video link to this README under the "Video demo" section.
-
 ## Deliverables checklist
 
 - [ ] Frontend (`client/`) — React + TypeScript app
@@ -132,9 +112,8 @@ If you have any questions or want additional features (auth, per-user carts, tes
 
 ### Video demo link
 
-Add your video link here (YouTube unlisted or Loom):
-
 `https://drive.google.com/file/d/1JCI1gkotpuSztNxtj_RL5dY3jpEDQ2xi/view?usp=drive_link`
+
 # Vibe Commerce — Mock E‑Com Cart
 
 This repository contains a small full-stack mock e-commerce cart used for a screening assignment.
